@@ -1,1 +1,520 @@
+Enter 主函数
+等待系统自动唤醒
+Woke up! Reconnecting...
+未检测到最新旗号!等待一秒重试！
+[0] bstrName=水平滚动条
+[0] bstrName=垂直滚动条
+[0] bstrName=首行
+[0] bstrName=行 0
+[1] bstrName=来源 行 0
+Found Target Cell Name: 来源 行 0 Value: 数来宝
+[1] bstrName=分类 行 0
+Found Target Cell Name: 分类 行 0 Value: 杀码
+[1] bstrName=搜索关键词 行 0
+Found Target Cell Name: 搜索关键词 行 0 Value: //div[contains(normalize-space(),'数来宝『精杀五码』')]/following::td[position() <=400]
+[1] bstrName=数据关键词 行 0
+Found Target Cell Name: 数据关键词 行 0 Value: (null)
+[1] bstrName=链接地址 行 0
+Found Target Cell Name: 链接地址 行 0 Value: https://wsujfdmu.npzj0-xhj1h-aianwb.xyz:17477/
+[1] bstrName=等待毫秒 行 0
+Found Target Cell Name: 等待毫秒 行 0 Value: 3000
+[1] bstrName=备注 行 0
+Found Target Cell Name: 备注 行 0 Value: 数来宝『精杀五码』
+[1] bstrName=采集状态 行 0
+Found Target Cell Name: 采集状态 行 0 Value: 0
+[1] bstrName=最新期号 行 0
+Found Target Cell Name: 最新期号 行 0 Value: (null)
+[1] bstrName=采集结果 行 0
+Found Target Cell Name: 采集结果 行 0 Value: (null)
+[1] bstrName=原始结果 行 0
+Found Target Cell Name: 原始结果 行 0 Value: (null)
+[0] bstrName=行 1
+[1] bstrName=来源 行 1
+Found Target Cell Name: 来源 行 1 Value: 49卢九
+[1] bstrName=分类 行 1
+Found Target Cell Name: 分类 行 1 Value: 杀1肖
+[1] bstrName=搜索关键词 行 1
+Found Target Cell Name: 搜索关键词 行 1 Value: //div[@class='title_area title_areaok'][contains(normalize-space(),'49卢九【稳杀一肖】')]/following::tr[position() <3]
+[1] bstrName=数据关键词 行 1
+Found Target Cell Name: 数据关键词 行 1 Value: (null)
+[1] bstrName=链接地址 行 1
+Found Target Cell Name: 链接地址 行 1 Value: https://thrsnf.qf6se-w43pmf-vozowa.work:16677/
+[1] bstrName=等待毫秒 行 1
+Found Target Cell Name: 等待毫秒 行 1 Value: 3000
+[1] bstrName=备注 行 1
+Found Target Cell Name: 备注 行 1 Value: 49卢九【稳杀一肖】
+[1] bstrName=采集状态 行 1
+Found Target Cell Name: 采集状态 行 1 Value: 0
+[1] bstrName=最新期号 行 1
+Found Target Cell Name: 最新期号 行 1 Value: (null)
+[1] bstrName=采集结果 行 1
+Found Target Cell Name: 采集结果 行 1 Value: (null)
+[1] bstrName=原始结果 行 1
+Found Target Cell Name: 原始结果 行 1 Value: (null)
+[0] bstrName=行 2
+[1] bstrName=来源 行 2
+Found Target Cell Name: 来源 行 2 Value: 49玄机阁
+[1] bstrName=分类 行 2
+Found Target Cell Name: 分类 行 2 Value: 杀1肖
+[1] bstrName=搜索关键词 行 2
+Found Target Cell Name: 搜索关键词 行 2 Value: //div[contains(normalize-space(),'49玄机阁【综合绝杀】')]/following::tr[position() <=100]
+[1] bstrName=数据关键词 行 2
+Found Target Cell Name: 数据关键词 行 2 Value: (null)
+[1] bstrName=链接地址 行 2
+Found Target Cell Name: 链接地址 行 2 Value: https://jriqkk.t628u-7nbie-msmedy.work:10044/
+[1] bstrName=等待毫秒 行 2
+Found Target Cell Name: 等待毫秒 行 2 Value: 3000
+[1] bstrName=备注 行 2
+Found Target Cell Name: 备注 行 2 Value: 49玄机阁【综合绝杀】
+[1] bstrName=采集状态 行 2
+Found Target Cell Name: 采集状态 行 2 Value: 0
+[1] bstrName=最新期号 行 2
+Found Target Cell Name: 最新期号 行 2 Value: (null)
+[1] bstrName=采集结果 行 2
+Found Target Cell Name: 采集结果 行 2 Value: (null)
+[1] bstrName=原始结果 行 2
+Found Target Cell Name: 原始结果 行 2 Value: (null)
+[0] bstrName=行 3
+[1] bstrName=来源 行 3
+Found Target Cell Name: 来源 行 3 Value: 金牛
 
+[1] bstrName=分类 行 3
+Found Target Cell Name: 分类 行 3 Value: 杀1合
+[1] bstrName=搜索关键词 行 3
+Found Target Cell Name: 搜索关键词 行 3 Value: //td[contains(normalize-space(),'『绝杀①段①合』')]/following::tr[position() <=100]
+[1] bstrName=数据关键词 行 3
+Found Target Cell Name: 数据关键词 行 3 Value: (null)
+[1] bstrName=链接地址 行 3
+Found Target Cell Name: 链接地址 行 3 Value: https://mqnmzeek.coecz-055ah-mnctra.work:17455/#am
+[1] bstrName=等待毫秒 行 3
+Found Target Cell Name: 等待毫秒 行 3 Value: 3000
+[1] bstrName=备注 行 3
+Found Target Cell Name: 备注 行 3 Value: 金牛『绝杀①段①合』
+[1] bstrName=采集状态 行 3
+Found Target Cell Name: 采集状态 行 3 Value: 0
+[1] bstrName=最新期号 行 3
+Found Target Cell Name: 最新期号 行 3 Value: (null)
+[1] bstrName=采集结果 行 3
+Found Target Cell Name: 采集结果 行 3 Value: (null)
+[1] bstrName=原始结果 行 3
+Found Target Cell Name: 原始结果 行 3 Value: (null)
+[0] bstrName=行 4
+[1] bstrName=来源 行 4
+Found Target Cell Name: 来源 行 4 Value: 金牛
+
+[1] bstrName=分类 行 4
+Found Target Cell Name: 分类 行 4 Value: 杀1肖
+[1] bstrName=搜索关键词 行 4
+Found Target Cell Name: 搜索关键词 行 4 Value: //td[contains(normalize-space(),'澳门金牛论坛『输尽光玄机诗』')]/following::tr[position() <=100]
+[1] bstrName=数据关键词 行 4
+Found Target Cell Name: 数据关键词 行 4 Value: (null)
+[1] bstrName=链接地址 行 4
+Found Target Cell Name: 链接地址 行 4 Value: https://mqnmzeek.coecz-055ah-mnctra.work:17455/#am
+[1] bstrName=等待毫秒 行 4
+Found Target Cell Name: 等待毫秒 行 4 Value: 3000
+[1] bstrName=备注 行 4
+Found Target Cell Name: 备注 行 4 Value: 澳门金牛论坛『输尽光玄机诗』
+[1] bstrName=采集状态 行 4
+Found Target Cell Name: 采集状态 行 4 Value: 0
+[1] bstrName=最新期号 行 4
+Found Target Cell Name: 最新期号 行 4 Value: (null)
+[1] bstrName=采集结果 行 4
+Found Target Cell Name: 采集结果 行 4 Value: (null)
+[1] bstrName=原始结果 行 4
+Found Target Cell Name: 原始结果 行 4 Value: (null)
+[0] bstrName=行 5
+[1] bstrName=来源 行 5
+Found Target Cell Name: 来源 行 5 Value: 报彩神童网
+[1] bstrName=分类 行 5
+Found Target Cell Name: 分类 行 5 Value: 杀1头
+[1] bstrName=搜索关键词 行 5
+Found Target Cell Name: 搜索关键词 行 5 Value: //div[contains(normalize-space(),'作者:西库规划')]/following::div[position() <=600]
+[1] bstrName=数据关键词 行 5
+Found Target Cell Name: 数据关键词 行 5 Value: (null)
+[1] bstrName=链接地址 行 5
+Found Target Cell Name: 链接地址 行 5 Value: https://s4wqb.uhj7x-4aheh-zthoio.xyz/topic/206519.html
+[1] bstrName=等待毫秒 行 5
+Found Target Cell Name: 等待毫秒 行 5 Value: 3000
+[1] bstrName=备注 行 5
+Found Target Cell Name: 备注 行 5 Value: 作者:西库规划
+[1] bstrName=采集状态 行 5
+Found Target Cell Name: 采集状态 行 5 Value: 0
+[1] bstrName=最新期号 行 5
+Found Target Cell Name: 最新期号 行 5 Value: (null)
+[1] bstrName=采集结果 行 5
+Found Target Cell Name: 采集结果 行 5 Value: (null)
+[1] bstrName=原始结果 行 5
+Found Target Cell Name: 原始结果 行 5 Value: (null)
+[0] bstrName=行 6
+[1] bstrName=来源 行 6
+Found Target Cell Name: 来源 行 6 Value: 澳门四不像
+[1] bstrName=分类 行 6
+Found Target Cell Name: 分类 行 6 Value: 杀1合
+[1] bstrName=搜索关键词 行 6
+Found Target Cell Name: 搜索关键词 行 6 Value: //div[contains(normalize-space(),'作者:风光旖旎')]/following::p[position() <=600]
+[1] bstrName=数据关键词 行 6
+Found Target Cell Name: 数据关键词 行 6 Value: (null)
+[1] bstrName=链接地址 行 6
+Found Target Cell Name: 链接地址 行 6 Value: https://jnf52f.55a6j-9tsko-hmbewp.work/topic/206432.html
+[1] bstrName=等待毫秒 行 6
+Found Target Cell Name: 等待毫秒 行 6 Value: 3000
+[1] bstrName=备注 行 6
+Found Target Cell Name: 备注 行 6 Value: 作者:风光旖旎
+[1] bstrName=采集状态 行 6
+Found Target Cell Name: 采集状态 行 6 Value: 0
+[1] bstrName=最新期号 行 6
+Found Target Cell Name: 最新期号 行 6 Value: (null)
+[1] bstrName=采集结果 行 6
+Found Target Cell Name: 采集结果 行 6 Value: (null)
+[1] bstrName=原始结果 行 6
+Found Target Cell Name: 原始结果 行 6 Value: (null)
+[0] bstrName=行 7
+[1] bstrName=来源 行 7
+Found Target Cell Name: 来源 行 7 Value: 澳门马会传真
+[1] bstrName=分类 行 7
+Found Target Cell Name: 分类 行 7 Value: 杀一肖
+[1] bstrName=搜索关键词 行 7
+Found Target Cell Name: 搜索关键词 行 7 Value: //td[contains(normalize-space(),'『绝杀专区』')]/following::p[position() <=5000]
+[1] bstrName=数据关键词 行 7
+Found Target Cell Name: 数据关键词 行 7 Value: (null)
+[1] bstrName=链接地址 行 7
+Found Target Cell Name: 链接地址 行 7 Value: https://omdneme.ujwul-td46i-auxdwm.work:17488/
+[1] bstrName=等待毫秒 行 7
+Found Target Cell Name: 等待毫秒 行 7 Value: 3000
+[1] bstrName=备注 行 7
+Found Target Cell Name: 备注 行 7 Value: 『绝杀专区』
+[1] bstrName=采集状态 行 7
+Found Target Cell Name: 采集状态 行 7 Value: 0
+[1] bstrName=最新期号 行 7
+Found Target Cell Name: 最新期号 行 7 Value: (null)
+[1] bstrName=采集结果 行 7
+Found Target Cell Name: 采集结果 行 7 Value: (null)
+[1] bstrName=原始结果 行 7
+Found Target Cell Name: 原始结果 行 7 Value: (null)
+[0] bstrName=行 8
+[1] bstrName=来源 行 8
+Found Target Cell Name: 来源 行 8 Value: 澳门大陆仔
+[1] bstrName=分类 行 8
+Found Target Cell Name: 分类 行 8 Value: 小围
+[1] bstrName=搜索关键词 行 8
+Found Target Cell Name: 搜索关键词 行 8 Value: //tr[contains(normalize-space(),'澳门大陆仔『输尽光玄机诗』')]/following::tr[position() <=4]
+[1] bstrName=数据关键词 行 8
+Found Target Cell Name: 数据关键词 行 8 Value: (null)
+[1] bstrName=链接地址 行 8
+Found Target Cell Name: 链接地址 行 8 Value: https://sgiuqsue.g7qg6-fe80g-lfpqsm.work:16677/
+[1] bstrName=等待毫秒 行 8
+Found Target Cell Name: 等待毫秒 行 8 Value: 3000
+[1] bstrName=备注 行 8
+Found Target Cell Name: 备注 行 8 Value: 澳门大陆仔『输尽光玄机诗』
+
+[1] bstrName=采集状态 行 8
+Found Target Cell Name: 采集状态 行 8 Value: 0
+[1] bstrName=最新期号 行 8
+Found Target Cell Name: 最新期号 行 8 Value: (null)
+[1] bstrName=采集结果 行 8
+Found Target Cell Name: 采集结果 行 8 Value: (null)
+[1] bstrName=原始结果 行 8
+Found Target Cell Name: 原始结果 行 8 Value: (null)
+[0] bstrName=行 9
+[1] bstrName=来源 行 9
+Found Target Cell Name: 来源 行 9 Value: 聚宝盆
+[1] bstrName=分类 行 9
+Found Target Cell Name: 分类 行 9 Value: 杀码
+[1] bstrName=搜索关键词 行 9
+Found Target Cell Name: 搜索关键词 行 9 Value: //span[contains(normalize-space(),'聚宝盆《绝杀合数》')]/following::td[position() <=100]
+[1] bstrName=数据关键词 行 9
+Found Target Cell Name: 数据关键词 行 9 Value: (null)
+[1] bstrName=链接地址 行 9
+Found Target Cell Name: 链接地址 行 9 Value: https://phplzvdp.rfwcx-n7om4-amqrgx.xyz:17466/
+[1] bstrName=等待毫秒 行 9
+Found Target Cell Name: 等待毫秒 行 9 Value: 3000
+[1] bstrName=备注 行 9
+Found Target Cell Name: 备注 行 9 Value: 聚宝盆《绝杀合数》
+[1] bstrName=采集状态 行 9
+Found Target Cell Name: 采集状态 行 9 Value: 0
+[1] bstrName=最新期号 行 9
+Found Target Cell Name: 最新期号 行 9 Value: (null)
+[1] bstrName=采集结果 行 9
+Found Target Cell Name: 采集结果 行 9 Value: (null)
+[1] bstrName=原始结果 行 9
+Found Target Cell Name: 原始结果 行 9 Value: (null)
+[0] bstrName=行 10
+[1] bstrName=来源 行 10
+Found Target Cell Name: 来源 行 10 Value: 龙门客栈
+[1] bstrName=分类 行 10
+Found Target Cell Name: 分类 行 10 Value: 肖
+[1] bstrName=搜索关键词 行 10
+Found Target Cell Name: 搜索关键词 行 10 Value: //div[contains(normalize-space(),'龙门客栈-独家输尽光')]/following::p[position() <=40]
+[1] bstrName=数据关键词 行 10
+Found Target Cell Name: 数据关键词 行 10 Value: (null)
+[1] bstrName=链接地址 行 10
+Found Target Cell Name: 链接地址 行 10 Value: https://bpzjuxyp.k7rfx-8c1ka-yelsrl.xyz:16677/
+[1] bstrName=等待毫秒 行 10
+Found Target Cell Name: 等待毫秒 行 10 Value: 3000
+[1] bstrName=备注 行 10
+Found Target Cell Name: 备注 行 10 Value: 龙门客栈-独家输尽光
+[1] bstrName=采集状态 行 10
+Found Target Cell Name: 采集状态 行 10 Value: 0
+[1] bstrName=最新期号 行 10
+Found Target Cell Name: 最新期号 行 10 Value: (null)
+[1] bstrName=采集结果 行 10
+Found Target Cell Name: 采集结果 行 10 Value: (null)
+[1] bstrName=原始结果 行 10
+Found Target Cell Name: 原始结果 行 10 Value: (null)
+[0] bstrName=行 11
+[1] bstrName=来源 行 11
+Found Target Cell Name: 来源 行 11 Value: 六合彩资料网
+[1] bstrName=分类 行 11
+Found Target Cell Name: 分类 行 11 Value: 十肖
+[1] bstrName=搜索关键词 行 11
+Found Target Cell Name: 搜索关键词 行 11 Value: //p[contains(normalize-space(),'♠无错十肖♠')][position() <= 1]
+[1] bstrName=数据关键词 行 11
+Found Target Cell Name: 数据关键词 行 11 Value: (null)
+[1] bstrName=链接地址 行 11
+Found Target Cell Name: 链接地址 行 11 Value: https://iyuczga.j2ucj-7er14-ckqfup.xyz:17455/topic/756070.html
+[1] bstrName=等待毫秒 行 11
+Found Target Cell Name: 等待毫秒 行 11 Value: 3000
+[1] bstrName=备注 行 11
+Found Target Cell Name: 备注 行 11 Value: 十肖
+[1] bstrName=采集状态 行 11
+Found Target Cell Name: 采集状态 行 11 Value: 0
+[1] bstrName=最新期号 行 11
+Found Target Cell Name: 最新期号 行 11 Value: (null)
+[1] bstrName=采集结果 行 11
+Found Target Cell Name: 采集结果 行 11 Value: (null)
+[1] bstrName=原始结果 行 11
+Found Target Cell Name: 原始结果 行 11 Value: (null)
+[0] bstrName=行 12
+[1] bstrName=来源 行 12
+Found Target Cell Name: 来源 行 12 Value: 水果奶奶
+[1] bstrName=分类 行 12
+Found Target Cell Name: 分类 行 12 Value: 杀1肖
+[1] bstrName=搜索关键词 行 12
+Found Target Cell Name: 搜索关键词 行 12 Value: //font[contains(normalize-space(),'『综合绝杀』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 12
+Found Target Cell Name: 数据关键词 行 12 Value: (null)
+[1] bstrName=链接地址 行 12
+Found Target Cell Name: 链接地址 行 12 Value: https://5zwrdx.t628u-7nbie-msmedy.work:10044/
+[1] bstrName=等待毫秒 行 12
+Found Target Cell Name: 等待毫秒 行 12 Value: 8000
+[1] bstrName=备注 行 12
+Found Target Cell Name: 备注 行 12 Value: 水果奶奶『综合绝杀』
+[1] bstrName=采集状态 行 12
+Found Target Cell Name: 采集状态 行 12 Value: 0
+[1] bstrName=最新期号 行 12
+Found Target Cell Name: 最新期号 行 12 Value: (null)
+[1] bstrName=采集结果 行 12
+Found Target Cell Name: 采集结果 行 12 Value: (null)
+[1] bstrName=原始结果 行 12
+Found Target Cell Name: 原始结果 行 12 Value: (null)
+[0] bstrName=行 13
+[1] bstrName=来源 行 13
+Found Target Cell Name: 来源 行 13 Value: 水果奶奶
+[1] bstrName=分类 行 13
+Found Target Cell Name: 分类 行 13 Value: 杀1肖
+[1] bstrName=搜索关键词 行 13
+Found Target Cell Name: 搜索关键词 行 13 Value: //div[contains(normalize-space(),'作者:热馆海宾')]/following::div[position() <=100]
+[1] bstrName=数据关键词 行 13
+Found Target Cell Name: 数据关键词 行 13 Value: (null)
+[1] bstrName=链接地址 行 13
+Found Target Cell Name: 链接地址 行 13 Value: https://u6agr.pqklc-5qya9-zqnsje.xyz/topic/206520.html
+[1] bstrName=等待毫秒 行 13
+Found Target Cell Name: 等待毫秒 行 13 Value: 3000
+[1] bstrName=备注 行 13
+Found Target Cell Name: 备注 行 13 Value: 作者:热馆海宾
+[1] bstrName=采集状态 行 13
+Found Target Cell Name: 采集状态 行 13 Value: 0
+[1] bstrName=最新期号 行 13
+Found Target Cell Name: 最新期号 行 13 Value: (null)
+[1] bstrName=采集结果 行 13
+Found Target Cell Name: 采集结果 行 13 Value: (null)
+[1] bstrName=原始结果 行 13
+Found Target Cell Name: 原始结果 行 13 Value: (null)
+[0] bstrName=行 14
+[1] bstrName=来源 行 14
+Found Target Cell Name: 来源 行 14 Value: 水果奶奶
+[1] bstrName=分类 行 14
+Found Target Cell Name: 分类 行 14 Value: 十肖
+[1] bstrName=搜索关键词 行 14
+Found Target Cell Name: 搜索关键词 行 14 Value: //font[contains(normalize-space(),'『单双五肖』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 14
+Found Target Cell Name: 数据关键词 行 14 Value: (null)
+[1] bstrName=链接地址 行 14
+Found Target Cell Name: 链接地址 行 14 Value: https://5zwrdx.t628u-7nbie-msmedy.work:10044/
+[1] bstrName=等待毫秒 行 14
+Found Target Cell Name: 等待毫秒 行 14 Value: 3000
+[1] bstrName=备注 行 14
+Found Target Cell Name: 备注 行 14 Value: 水果奶奶『单双五肖』
+[1] bstrName=采集状态 行 14
+Found Target Cell Name: 采集状态 行 14 Value: 0
+[1] bstrName=最新期号 行 14
+Found Target Cell Name: 最新期号 行 14 Value: (null)
+[1] bstrName=采集结果 行 14
+Found Target Cell Name: 采集结果 行 14 Value: (null)
+[1] bstrName=原始结果 行 14
+Found Target Cell Name: 原始结果 行 14 Value: (null)
+[0] bstrName=行 15
+[1] bstrName=来源 行 15
+Found Target Cell Name: 来源 行 15 Value: 水果奶奶
+[1] bstrName=分类 行 15
+Found Target Cell Name: 分类 行 15 Value: 8尾
+[1] bstrName=搜索关键词 行 15
+Found Target Cell Name: 搜索关键词 行 15 Value: //font[contains(normalize-space(),'『单双四尾』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 15
+Found Target Cell Name: 数据关键词 行 15 Value: (null)
+[1] bstrName=链接地址 行 15
+Found Target Cell Name: 链接地址 行 15 Value: https://wdciukpq.94x6ek-54nvd-vpakl.work:16677/
+[1] bstrName=等待毫秒 行 15
+Found Target Cell Name: 等待毫秒 行 15 Value: 3000
+[1] bstrName=备注 行 15
+Found Target Cell Name: 备注 行 15 Value: 水果奶奶『单双四尾』
+[1] bstrName=采集状态 行 15
+Found Target Cell Name: 采集状态 行 15 Value: 0
+[1] bstrName=最新期号 行 15
+Found Target Cell Name: 最新期号 行 15 Value: (null)
+[1] bstrName=采集结果 行 15
+Found Target Cell Name: 采集结果 行 15 Value: (null)
+[1] bstrName=原始结果 行 15
+Found Target Cell Name: 原始结果 行 15 Value: (null)
+[0] bstrName=行 16
+[1] bstrName=来源 行 16
+Found Target Cell Name: 来源 行 16 Value: 水果奶奶
+[1] bstrName=分类 行 16
+Found Target Cell Name: 分类 行 16 Value: 杀2合
+[1] bstrName=搜索关键词 行 16
+Found Target Cell Name: 搜索关键词 行 16 Value: //font[contains(normalize-space(),'『砍杀二合』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 16
+Found Target Cell Name: 数据关键词 行 16 Value: (null)
+[1] bstrName=链接地址 行 16
+Found Target Cell Name: 链接地址 行 16 Value: https://wdciukpq.94x6ek-54nvd-vpakl.work:16677/
+[1] bstrName=等待毫秒 行 16
+Found Target Cell Name: 等待毫秒 行 16 Value: 3000
+[1] bstrName=备注 行 16
+Found Target Cell Name: 备注 行 16 Value: 水果奶奶『砍杀二合』
+[1] bstrName=采集状态 行 16
+Found Target Cell Name: 采集状态 行 16 Value: 0
+[1] bstrName=最新期号 行 16
+Found Target Cell Name: 最新期号 行 16 Value: (null)
+[1] bstrName=采集结果 行 16
+Found Target Cell Name: 采集结果 行 16 Value: (null)
+[1] bstrName=原始结果 行 16
+Found Target Cell Name: 原始结果 行 16 Value: (null)
+[0] bstrName=行 17
+[1] bstrName=来源 行 17
+Found Target Cell Name: 来源 行 17 Value: 水果奶奶
+[1] bstrName=分类 行 17
+Found Target Cell Name: 分类 行 17 Value: 杀2肖
+[1] bstrName=搜索关键词 行 17
+Found Target Cell Name: 搜索关键词 行 17 Value: //font[contains(normalize-space(),'『绝杀二肖』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 17
+Found Target Cell Name: 数据关键词 行 17 Value: (null)
+[1] bstrName=链接地址 行 17
+Found Target Cell Name: 链接地址 行 17 Value: https://wdciukpq.94x6ek-54nvd-vpakl.work:16677/
+[1] bstrName=等待毫秒 行 17
+Found Target Cell Name: 等待毫秒 行 17 Value: 3000
+[1] bstrName=备注 行 17
+Found Target Cell Name: 备注 行 17 Value: 水果奶奶『绝杀二肖』
+[1] bstrName=采集状态 行 17
+Found Target Cell Name: 采集状态 行 17 Value: 0
+[1] bstrName=最新期号 行 17
+Found Target Cell Name: 最新期号 行 17 Value: (null)
+[1] bstrName=采集结果 行 17
+Found Target Cell Name: 采集结果 行 17 Value: (null)
+[1] bstrName=原始结果 行 17
+Found Target Cell Name: 原始结果 行 17 Value: (null)
+[0] bstrName=行 18
+[1] bstrName=来源 行 18
+Found Target Cell Name: 来源 行 18 Value: 水果奶奶
+[1] bstrName=分类 行 18
+Found Target Cell Name: 分类 行 18 Value: 杀半波
+[1] bstrName=搜索关键词 行 18
+Found Target Cell Name: 搜索关键词 行 18 Value: //font[contains(normalize-space(),'『必杀半波』')]/following::tr[position() <=10]
+[1] bstrName=数据关键词 行 18
+Found Target Cell Name: 数据关键词 行 18 Value: (null)
+[1] bstrName=链接地址 行 18
+Found Target Cell Name: 链接地址 行 18 Value: https://wdciukpq.94x6ek-54nvd-vpakl.work:16677/
+[1] bstrName=等待毫秒 行 18
+Found Target Cell Name: 等待毫秒 行 18 Value: 3000
+[1] bstrName=备注 行 18
+Found Target Cell Name: 备注 行 18 Value: 水果奶奶『必杀半波』
+[1] bstrName=采集状态 行 18
+Found Target Cell Name: 采集状态 行 18 Value: 0
+[1] bstrName=最新期号 行 18
+Found Target Cell Name: 最新期号 行 18 Value: (null)
+[1] bstrName=采集结果 行 18
+Found Target Cell Name: 采集结果 行 18 Value: (null)
+[1] bstrName=原始结果 行 18
+Found Target Cell Name: 原始结果 行 18 Value: (null)
+[0] bstrName=行 19
+[1] bstrName=来源 行 19
+Found Target Cell Name: 来源 行 19 Value: 49官网论坛
+[1] bstrName=分类 行 19
+Found Target Cell Name: 分类 行 19 Value: (null)
+[1] bstrName=搜索关键词 行 19
+Found Target Cell Name: 搜索关键词 行 19 Value: //span[contains(normalize-space(),'【无敌杀码料】')]/following::table[1]//tr[position()<10]
+[1] bstrName=数据关键词 行 19
+Found Target Cell Name: 数据关键词 行 19 Value: (null)
+[1] bstrName=链接地址 行 19
+Found Target Cell Name: 链接地址 行 19 Value: https://goobrp.wkvql-xk27w-ibojnb.xyz:16677/
+[1] bstrName=等待毫秒 行 19
+Found Target Cell Name: 等待毫秒 行 19 Value: 3000
+[1] bstrName=备注 行 19
+Found Target Cell Name: 备注 行 19 Value: 无敌杀码料
+[1] bstrName=采集状态 行 19
+Found Target Cell Name: 采集状态 行 19 Value: 0
+[1] bstrName=最新期号 行 19
+Found Target Cell Name: 最新期号 行 19 Value: (null)
+[1] bstrName=采集结果 行 19
+Found Target Cell Name: 采集结果 行 19 Value: (null)
+[1] bstrName=原始结果 行 19
+Found Target Cell Name: 原始结果 行 19 Value: (null)
+[0] bstrName=行 20
+[1] bstrName=来源 行 20
+Found Target Cell Name: 来源 行 20 Value: 49官网论坛（备用）
+[1] bstrName=分类 行 20
+Found Target Cell Name: 分类 行 20 Value: (null)
+[1] bstrName=搜索关键词 行 20
+Found Target Cell Name: 搜索关键词 行 20 Value: //span[contains(normalize-space(),'【无敌杀码料】')]/following::table[1]/following::tr[position()<=10]
+[1] bstrName=数据关键词 行 20
+Found Target Cell Name: 数据关键词 行 20 Value: (null)
+[1] bstrName=链接地址 行 20
+Found Target Cell Name: 链接地址 行 20 Value: https://goobrp.wkvql-xk27w-ibojnb.xyz:16677/
+[1] bstrName=等待毫秒 行 20
+Found Target Cell Name: 等待毫秒 行 20 Value: 3000
+[1] bstrName=备注 行 20
+Found Target Cell Name: 备注 行 20 Value: 无敌杀码料（备用）
+[1] bstrName=采集状态 行 20
+Found Target Cell Name: 采集状态 行 20 Value: 0
+[1] bstrName=最新期号 行 20
+Found Target Cell Name: 最新期号 行 20 Value: (null)
+[1] bstrName=采集结果 行 20
+Found Target Cell Name: 采集结果 行 20 Value: (null)
+[1] bstrName=原始结果 行 20
+Found Target Cell Name: 原始结果 行 20 Value: (null)
+[0] bstrName=行 21
+[1] bstrName=来源 行 21
+Found Target Cell Name: 来源 行 21 Value: (null)
+[1] bstrName=分类 行 21
+Found Target Cell Name: 分类 行 21 Value: (null)
+[1] bstrName=搜索关键词 行 21
+Found Target Cell Name: 搜索关键词 行 21 Value: (null)
+[1] bstrName=数据关键词 行 21
+Found Target Cell Name: 数据关键词 行 21 Value: (null)
+[1] bstrName=链接地址 行 21
+Found Target Cell Name: 链接地址 行 21 Value: (null)
+[1] bstrName=等待毫秒 行 21
+Found Target Cell Name: 等待毫秒 行 21 Value: (null)
+[1] bstrName=备注 行 21
+Found Target Cell Name: 备注 行 21 Value: (null)
+[1] bstrName=采集状态 行 21
+Found Target Cell Name: 采集状态 行 21 Value: (null)
+[1] bstrName=最新期号 行 21
+Found Target Cell Name: 最新期号 行 21 Value: (null)
+[1] bstrName=采集结果 行 21
+Found Target Cell Name: 采集结果 行 21 Value: (null)
+[1] bstrName=原始结果 行 21
+Found Target Cell Name: 原始结果 行 21 Value: (null)
+准备开始采集......
+已经开始采集
+采集完成
+将自动休眠，redo.xlsx：写入1重新采集; 写入2休眠电脑
