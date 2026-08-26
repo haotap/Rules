@@ -6,12 +6,16 @@
 </head>
 <body>
     <div id="output"></div>
+    <div id="log"></div>
     <script>
-        let _dataStr='{"Cmd":0,"desc":"指定状态（0 - 无需理会，1 - 重新获取，2 - 系统休眠）"}';
-        // 解析字符串为对象
-        let _data = JSON.parse(_dataStr);
-        // 页面加载完后把数据写到 DOM 里
-        window.addEventListener('DOMContentLoaded', function () {document.getElementById('output').innerHTML = `<p><strong>命令:</strong> ${_data.Cmd}</p><p><strong>描述:</strong> ${_data.desc}</p>`;});
+        let _dataStr='{"Cmd":0,"desc":"指定状态（0-无需理会，1-重新获取，2-系统休眠）"}';
+        let _data=JSON.parse(_dataStr);
+        window.addEventListener('DOMContentLoaded', function () {document.getElementById('output').innerHTML=`<p><strong>命令:</strong> ${_data.Cmd}</p><p><strong>描述:</strong> ${_data.desc}</p>`;});
+        // ===== 拉日志并显示 =====
+        fetch('https://haotap.github.io/Rules/run.log')
+            .then(r => r.text())
+            .then(t => document.getElementById('log').textContent = t)
+            .catch(e => document.getElementById('log').textContent = '加载失败: ' + e.message);
     </script>
 </body>
 </html>
