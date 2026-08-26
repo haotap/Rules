@@ -1,9 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-<title>我的第一个页面</title>
+    <meta charset="UTF-8">
+    <title>动态显示数据</title>
 </head>
 <body>
-<h1>Hello World!</h1>
+    <div id="output"></div>
+
+    <script>
+        let _data = {
+            Cmd: 0,
+            desc: "指定状态（0-无需理会，1-重新采集,2-系统休眠）"
+        };
+
+        // 页面加载完后把数据写到 DOM 里
+        window.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('output').innerHTML = `
+                <p><strong>Cmd:</strong> ${_data.Cmd}</p>
+                <p><strong>描述:</strong> ${_data.desc}</p>
+            `;
+        });
+    </script>
 </body>
 </html>
