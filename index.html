@@ -2,24 +2,16 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>动态显示数据</title>
+    <title>我的主页状态</title>
 </head>
 <body>
     <div id="output"></div>
-
     <script>
-        let _data = {
-            Cmd: 0,
-            desc: "指定状态（0-无需理会，1-重新采集,2-系统休眠）"
-        };
-
+        let _dataStr='{"Cmd":0,"desc":"指定状态（0-无需理会，1-重新获取，2-系统休眠）"}';
+        // 解析字符串为对象
+        let _data = JSON.parse(_dataStr);
         // 页面加载完后把数据写到 DOM 里
-        window.addEventListener('DOMContentLoaded', function () {
-            document.getElementById('output').innerHTML = `
-                <p><strong>Cmd:</strong> ${_data.Cmd}</p>
-                <p><strong>描述:</strong> ${_data.desc}</p>
-            `;
-        });
+        window.addEventListener('DOMContentLoaded', function () {document.getElementById('output').innerHTML = `<p><strong>命令:</strong> ${_data.Cmd}</p><p><strong>描述:</strong> ${_data.desc}</p>`;});
     </script>
 </body>
 </html>
