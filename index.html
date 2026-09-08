@@ -8,7 +8,7 @@
     <div id="output"></div>
     <div id="log"></div>
     <script>
-        let _dataStr='{"Cmd":0,"desc":"指定状态（0-无需理会，1-重新获取，2-系统休眠）"}';
+        let _dataStr='{"Cmd":2,"desc":"指定状态（0-无需理会，1-重新获取，2-系统休眠）"}';
         let _data=JSON.parse(_dataStr);
         window.addEventListener('DOMContentLoaded', function () {document.getElementById('output').innerHTML=`<p><strong>命令:</strong> ${_data.Cmd}</p><p><strong>描述:</strong> ${_data.desc}</p>`;});
         // ===== 拉取日志并显示 =====
